@@ -1,2 +1,2 @@
 # firstproject
-leraning Github
+learning Github
